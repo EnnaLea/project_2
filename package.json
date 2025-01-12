@@ -9,5 +9,10 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": ""
+  "description": "Fullstack todo application a Nodejs backend, SQLite database and JWT Authentication",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
